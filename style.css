@@ -1,6 +1,7 @@
 .body{
     font-family: 'Poppins', sans-serif;
 }
+
 .head{
     margin-bottom: 25px;
     background-color: #F0FFF0;
@@ -9,7 +10,7 @@
     background-color:  #F0FFF0;
 }
 .png-bg{
-    margin-bottom: 25px;
+    margin-top: 50px;
 }
 span{
     color: white;
@@ -45,27 +46,23 @@ span{
     text-align: center;
     padding-top: 20px;
 }
-.nice{
-height: 100px;
-width: 100%;
-}
 .png-1{
+    width: 270px;
+    height: 200px;
+    margin-left: 15px;
     background-color: #F0FFF0;
-    border-radius: 5px;
+    border-radius: 10px;
     padding-top: 30px;   
 }
 .png-2{
+    width: 265px;
+    margin-left: 15px;
     padding-top: 30px;
     background-color: white;
     box-shadow: 5px 5px 10px lightgray;
 }
-
-.png-1 img{
-    text-align: center;
-    padding-bottom: 10px;
-}
 .onlin-bg{
-    padding-top: 15%;
+    padding-top: 5%;
 }
 .img-style{
    width: 50px;
@@ -92,6 +89,9 @@ width: 100%;
     background-color: black;
     margin-top: 60px;
 }
+.bg-last{
+    background-color: black;
+}
 .card-deck{
 margin-bottom: 10px;
 }
@@ -116,4 +116,8 @@ ul{
 .bigp{
     margin-top: 70px;
     padding-left: 20px;
+}
+.png-img{
+    height: 75px;
+    width: 25%;
 }
