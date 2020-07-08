@@ -1,0 +1,119 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.head{
+    margin-bottom: 25px;
+    background-color: #F0FFF0;
+}
+.head-bg{
+    background-color:  #F0FFF0;
+}
+.png-bg{
+    margin-bottom: 25px;
+}
+span{
+    color: white;
+}
+.text-color{
+    color: hsla(153, 64%, 45%, 0.897);
+}
+.text-align{
+    position: relative;
+    left: 20px;
+}
+.green-btn{
+    background-color: #21B573;
+    height: 40px;
+    width: 90px;
+    border-radius: 30px;
+}
+.green-btn2{
+    background-color: #21B573;
+    height: 40px;
+    width: 125px;
+    border-radius: 30px;
+    border: none;
+}
+.buy-course{
+    background-color: #21B573;
+    height: 40px;
+    width: 125px;
+    border-radius: 30px;
+    border: none;
+}
+.cat{
+    text-align: center;
+    padding-top: 20px;
+}
+.nice{
+height: 100px;
+width: 100%;
+}
+.png-1{
+    background-color: #F0FFF0;
+    border-radius: 5px;
+    padding-top: 30px;   
+}
+.png-2{
+    padding-top: 30px;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+.png-1 img{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.onlin-bg{
+    padding-top: 15%;
+}
+.img-style{
+   width: 50px;
+}
+.card{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.test-bg{
+    margin-top: 5%;
+}
+.pic-down{
+    margin-top: 30%;
+}
+.bottom-bg{
+    height: 350px;
+    width: 100%;
+    background-color: black;
+    margin-top: 60px;
+}
+.card-deck{
+margin-bottom: 10px;
+}
+.list-cntl{
+    box-shadow: none;
+    border: none;
+    color: white;
+    background-color: black;
+    margin-top: 50px;
+}
+ul{
+    list-style-type: none;
+}
+.hed{
+    margin-left: 40px;
+}
+.lol{
+    margin-top: 25px;
+    color: grey;
+    text-align: center;
+}
+.bigp{
+    margin-top: 70px;
+    padding-left: 20px;
+}
